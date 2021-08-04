@@ -1,0 +1,141 @@
+/* Custom styles for Page links*/
+
+.home-menu-item-link-color {
+    font-weight: bolder;
+    color: rgb(0, 214, 196);
+}
+
+.italic-menu-item-link-color {
+    color: red;
+    font-weight: bolder;
+}
+
+.class-link-about-js {
+    color: rgb(135, 170, 6);
+    font-weight: bolder;
+}
+
+.paragraph_link {
+    color: blue;
+}
+
+
+/* Custom styles for H titles*/
+
+h1 {
+    text-align: center;
+}
+
+.h1-home-title,
+.h1-italic-page-title,
+.h1-class-about-js-page {
+    color: green;
+}
+
+.h2-text-class {
+    color: blue;
+    text-align: right;
+}
+
+.h3-title-class {
+    color: orange;
+}
+
+
+/* Custom styles for images*/
+
+.img-shadow {
+    box-shadow: 10px 10px 5px rgb(146, 247, 238);
+}
+
+
+/* Custom styles for paragraph*/
+
+.paragraphClass {
+    color: red;
+    font-size: 15px;
+}
+
+
+/* Custom styles for div*/
+
+.div_class {
+    border-style: solid;
+    border-radius: 5px;
+    border-color: green;
+}
+
+.div_block_h3title,
+.div_block_paragraph {
+    text-align: center;
+}
+
+
+/* Custom styles about-js.html page*/
+
+.span_html_bold {
+    font-weight: bold;
+}
+
+.span_JavaScript_italic {
+    font-style: italic;
+}
+
+.h2-class-aboutjs-page {
+    text-align: center;
+}
+
+.span_JavaScript_underline {
+    text-decoration: underline;
+}
+
+.paragraph_one_section_area {
+    font-weight: bold;
+}
+
+.paragraph_two_section_area {
+    color: blue;
+}
+
+.first_div_aboutJS {
+    border-style: solid;
+    border-radius: 2px;
+    border-color: black;
+}
+
+.li_class_bold {
+    font-weight: bold;
+}
+
+.li_class_red {
+    color: red;
+}
+
+.li_class_underline {
+    text-decoration: underline;
+}
+
+.first_div_aboutJS {
+    padding: 0 0 0 25px;
+    width: 700px;
+}
+
+.paragraph_class_second_div {
+    text-indent: 35px;
+}
+
+p {
+    font-size: 18px;
+}
+
+li {
+    font-size: 18px;
+}
+
+.first_div_aboutJS {
+    margin: auto;
+}
+
+.paragraph_one_section_area {
+    line-height: 5%;
+}
